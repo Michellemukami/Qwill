@@ -3,7 +3,7 @@
 ## About 
 ![1660233602184](https://user-images.githubusercontent.com/51047362/184177742-78ff8e16-1b70-416d-803c-0a5b4d83d854.png)
 
-Single page sales point that is responsive to most mediums
+Single page sales point that has a responsive layout
 
 ### Built With
 * [![Vue][Vue.js]][Vue-url]
