@@ -24,7 +24,7 @@
         <div class="w-full lg:w-6/12 px-4">
           <h4 class="text-3xl text-white font-semibold">Let's keep in touch!</h4>
           <h5 class="text-lg mt-0 mb-2 text-gray-500">
-            Follow Qwib.
+            Follow Qwill.
           </h5>
           <div class="mt-6 mb-6 md:mb-0 ">
             <button
@@ -120,7 +120,7 @@
             <a
               href="https://www.creative-tim.com"
               class="text-gray-600 hover:text-gray-900"
-              >Qwib</a
+              >Qwill</a
             >.
           </div>
         </div>
